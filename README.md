@@ -1,6 +1,6 @@
 # doctorhere
 https://app.diagrams.net/
 
-https://www.viosapp.com/
+viosapp . com
 
-http://e-doktor.com.tr/
+http:// e-doktor . com .tr
